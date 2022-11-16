@@ -17,12 +17,9 @@ This application was made by creating our API, using Ruby on Rails, containing s
 
 ### Team Members
 
-We are a team of 5 members:
-@fibini	@franclobo	@Gopxfs	@Draxeytina	@waqaskanju
-
 ## Getting Started 
 - To get a local copy of this project clone this repository or download the Zip folder: 
-git clone https://github.com/softtscoder/Backend-Tesla-Booking.git 
+git clone https://github.com/softtscoder/Tesla-Booking-Backend.git 
 
 - To get started, In the root directory run: 
 gem install bundler 
@@ -84,5 +81,5 @@ rails db:seed
 Give a :star: if you like my project! 
 
 ## :pencil: License
-This project is [MIT](https://github.com/Draxeytina/Front-end_Tesla-Booking/blob/development/LICENSE) licensed. 
+This project is [MIT](https://github.com/softtscoder/Tesla-Booking/blob/development/LICENSE) licensed. 
 
